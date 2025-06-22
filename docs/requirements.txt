@@ -58,3 +58,4 @@ sphinx-design
 #geos>=0.2
 # cmocean
 
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
